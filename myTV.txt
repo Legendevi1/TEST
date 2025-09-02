@@ -1,7 +1,3 @@
-SDR频道,#genre#
-https://freetv.top/m2k/cctv4k.m3u8
-HLG频道,#genre#
-https://freetv.top/m4k/cctv4k.m3u8
 4K频道,#genre#
 CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 CCTV4K,http://219.140.5.23:8888/rtp/239.69.1.111:10304?$3840x2160
@@ -864,3 +860,4 @@ S.H.E,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KGJLPn&tk=cl177bPI6scY
 我的团长我的团,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=06gugb&tk=cl177bPI6scY
 
 铁齿铜牙纪晓岚,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e00zR5&tk=cl177bPI6scY
+
