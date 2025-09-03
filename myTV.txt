@@ -1,8 +1,3 @@
-4K频道,#genre#
-CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
-CCTV4K,http://219.140.5.23:8888/rtp/239.69.1.111:10304?$3840x2160
-CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140?$3840x2160
-CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8?$40M3840x2160
 香港频道,#genre#
 凤凰中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=u7o29G&tk=cl177bPI6scY
 凤凰资讯台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CaCRUC&tk=cl177bPI6scY
@@ -858,6 +853,4 @@ S.H.E,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KGJLPn&tk=cl177bPI6scY
 风云雄霸天下,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FsthRI&tk=cl177bPI6scY
 康熙微服私访,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=U2ndV2&tk=cl177bPI6scY
 我的团长我的团,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=06gugb&tk=cl177bPI6scY
-
 铁齿铜牙纪晓岚,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e00zR5&tk=cl177bPI6scY
-
