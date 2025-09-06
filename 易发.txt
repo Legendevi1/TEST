@@ -1,12 +1,8 @@
-温馨提示,#genre#
-如果直播源出现打赏画面,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aLWJP8&tk=cl177bPI6scY
-请不要打赏,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iLtQKa&tk=cl177bPI6scY
-免费分享,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DSXHgf&tk=cl177bPI6scY
 香港频道,#genre#
 #凤凰中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I7VXXP&tk=cl177bPI6scY
 #凤凰资讯台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SZYgyj&tk=cl177bPI6scY
 #凤凰香港台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GW3dbM&tk=cl177bPI6scY
-#翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LcFsdX&tk=cl177bPI6scY
+#翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LcFsdX&tk=cl177bPI6sc
 #翡翠台(美加·东岸时区),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XOu1Dd&tk=cl177bPI6scY
 #翡翠台(美加·西岸时区),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CGQHMT&tk=cl177bPI6scY
 #翡翠台(欧·新时区),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LhP39B&tk=cl177bPI6scY
